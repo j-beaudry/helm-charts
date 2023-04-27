@@ -3,7 +3,7 @@
 ## TL;DR;
 
 ```console
-$ helm repo add --username "__USERNAME__" --password "__PAT_TOKEN_WITH_ACCESS_TO_THE_REPO__" my-repo https://raw.githubusercontent.com/Dedalus-Clinalityx/helm-charts/gh-pages/
+$ helm repo add my-repo https://j-beaudry.github.io/helm-charts
 $ helm install my-release my-repo/multitool
 ```
 
